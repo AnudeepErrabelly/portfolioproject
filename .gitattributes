@@ -1,2 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 Portfolio-master.zip filter=lfs diff=lfs merge=lfs -text
+Portfolio.zip filter=lfs diff=lfs merge=lfs -text
+Portfolio-master filter=lfs diff=lfs merge=lfs -text
